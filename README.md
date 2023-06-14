@@ -1,5 +1,6 @@
-# Learning-Word-Vectors-for-Sentiment-Analysi
+# Learning-Word-Vectors-for-Sentiment-Analysis
 Abstract
+
 Unsupervised vector-based approaches to semantics can model rich lexical meanings, but
 they largely fail to capture sentiment information that is central to many word meanings and
 important for a wide range of NLP tasks. We
